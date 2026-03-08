@@ -1,0 +1,4 @@
+Streamlit
+langchain
+langchain_google_genai
+dotenv
